@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/hyunhoyu/react-realestate/static/js/main.328f7a04.js",
-    "index.html": "/hyunhoyu/react-realestate/index.html",
-    "main.328f7a04.js.map": "/hyunhoyu/react-realestate/static/js/main.328f7a04.js.map"
+    "main.js": "/react-realestate/static/js/main.328f7a04.js",
+    "index.html": "/react-realestate/index.html",
+    "main.328f7a04.js.map": "/react-realestate/static/js/main.328f7a04.js.map"
   },
   "entrypoints": [
     "static/js/main.328f7a04.js"
